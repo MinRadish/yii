@@ -15,7 +15,7 @@ features to your application.
 DIRECTORY STRUCTURE
 -------------------
 
-      assets/             contains assets definition
+      assets/             Git 上传测试
       commands/           contains console commands (controllers)
       config/             contains application configurations
       controllers/        contains Web controller classes
