@@ -60,7 +60,7 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        $my='18191254387';
+        $my='2313254654';
         $number=$my;
         return $this->render('index',array('number'=>$my));
     }
